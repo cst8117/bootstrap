@@ -1,2 +1,4 @@
-# bootstrap
-This repository contains the starter files for the Bootstrap project.
+# Bootstrap
+
+## Objective
+Use the Bootstrap grid and utility classes to style the Bootstrap Landing page. 
